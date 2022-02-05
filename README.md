@@ -1,8 +1,8 @@
-### Hi there 👋
+### Eaii!! Sou o Ygor Kaique, trabalho como back-end
 
 
 
-- 🔭 Atualmente trabalho com back-end
+- 🔭 Atualmente trabalho com Spring Framework
 - 🌱 Estou estudando Design Patterns e Spring 
 - ⚡ Fun fact: ...
 
